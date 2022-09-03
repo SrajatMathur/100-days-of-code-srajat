@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+The log of my #100DaysOfCode challenge. Started on [September 2, Monday, 2022].
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Saw post on LinkedIn of people my age starting with #100DaysOfCode challenge. Thought I should give it a try too. Because, why not?
+I'll be coding in Apex since Salesforce is what I work on. It is similar to Java though so it'll be easy for me to adapt and learn.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: September 2, 2022
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: I did 4 programs. 2 from Kunal Kushawaha's list and 2 from interviewbit.com.
+These programs were:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+1. Find whether a year is leap year or not?
+2. Find the HCF and LCM of two numbers.
+3. Find the number of Sundays in a week.
+4. Find the product of the digits of a number.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I learn that Apex doesn't support '%' operator so instead, I had to use, math.mod(a,b) where a,b stands for a%b. Also, I learnt the algorithm for finding the HCF and LCM of two numbers. I learnt Switch case in Java as well.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started this challenge, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Leap Year & HCF, LCM Program](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day1.cls)
+2. [Sundays in a week ](https://www.interviewbit.com/problems/number-of-sundays/)
+3. [Product of digits](https://www.interviewbit.com/problems/product-of-digits/)
