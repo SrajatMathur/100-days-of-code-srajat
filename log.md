@@ -24,3 +24,15 @@ I learn that Apex doesn't support '%' operator so instead, I had to use, math.mo
 1. [Leap Year & HCF, LCM Program](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day1.cls)
 2. [Sundays in a week ](https://www.interviewbit.com/problems/number-of-sundays/)
 3. [Product of digits](https://www.interviewbit.com/problems/product-of-digits/)
+
+### Day 2: September 3, 2022
+
+**Today's Progress:** I did 4 programs and out of which I needed help with only Fibonacci recursion and little concept of finding a leap year.
+
+I learnt that Recursion is a very deep topic and how it actually forms a stack and then the values are calculated from the bottom and starts retracing back to the top. Also, the odd-even rule question, I did it on my own. I was so glad that I was myself able to form the logic and build the program as well. Well, I'm getting the hang of it. Loving it so far!
+
+**Link to my work**
+
+1.[Reverse String and Fibonacci](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day2.cls)
+2.[Leap Year](https://www.interviewbit.com/problems/leap-year/)
+3.[Odd-Even Rule](https://www.interviewbit.com/problems/odd-even-rule/)
