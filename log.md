@@ -33,6 +33,33 @@ I learnt that Recursion is a very deep topic and how it actually forms a stack a
 
 **Link to my work**
 
-1.[Reverse String and Fibonacci](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day2.cls)
-2.[Leap Year](https://www.interviewbit.com/problems/leap-year/)
+1.[Reverse String and Fibonacci](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day2.cls) 
+2.[Leap Year](https://www.interviewbit.com/problems/leap-year/) 
 3.[Odd-Even Rule](https://www.interviewbit.com/problems/odd-even-rule/)
+
+### Day 3: September, 4, 2022
+
+**Today's Progress**: I did:
+
+1. I solved LCM and learnt that we must use long for large numbers on interviewbit.com
+2. I did problem on Armstrong Number on interviewbit and in Apex as well.
+3. Also, I did Socks Pair problem from Interviewbit.com
+4. I did Random Number Generator in Apex as well.
+
+These problems made me realise that there can be multiple approaches to solve a problem. I learnt datatype conversion in Apex. Also, I learnt that there can be hashsets and maps used, even in simple Math problems.
+
+**Links to my work**:
+
+1.[LCM](https://www.interviewbit.com/problems/lowest-common-multiple-lcm/)
+2.[Armstrong Number](https://www.interviewbit.com/problems/armstrong-number/)
+3.[Socks Pair](https://www.interviewbit.com/problems/socks-pair/)
+4.[Armstrong in Apex & Random Number](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day3.cls)
+
+
+### Day 4: September 5, 2022
+
+**Today's Progress**: I did shapes problems today from Raj Vikramaditya's A-Z DSA Course. I made two shapes which took me around 30 minutes to get to the desired results. I did them very efficiently and learnt how to make use of for loops in making the shapes look.
+
+1. I did ShapeV in Java
+2. ShapeDiamond in Java
+3. Automorphic Numbers in Apex
