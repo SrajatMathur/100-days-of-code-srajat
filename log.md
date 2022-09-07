@@ -62,4 +62,20 @@ These problems made me realise that there can be multiple approaches to solve a 
 
 1. I did ShapeV in Java
 2. ShapeDiamond in Java
-3. Automorphic Numbers in Apex
+
+
+### Day 5: September 6, 2022
+
+**Today's Progress**: I did only 1 program today i.e. Automorphic Number. I'm feeling regretful that I was not able to do any coding stuff today.
+
+**Links to my work**:
+1.[Automorphic Number](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day4.cls)
+
+
+### Day 6: September 7, 2022
+
+**Today's Progress**: 
+
+
+**Links to my work**:
+1.
