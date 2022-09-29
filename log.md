@@ -79,7 +79,17 @@ These problems made me realise that there can be multiple approaches to solve a 
 
 ### Day 6: September 7, 2022
 
-**Today's Progress**: 
+**Today's Progress**: --leave--
 
 
-**Links to my work**:
+**Links to my work**: --leave--
+
+(Took a break of few days but I managed to do a little programs in the middle. Will update the status and get started with this challenge again.)
+
+
+### Day 6: September 29, 2022
+
+**Today's Progress**: Peterson Number: Sum of factorial of each digit is equal to the number itself. I began with this challenge again. I made use of different methods in one single apex class and used two methods to calculate and check whether the number is Peterson or not.
+
+**Link to my work**: 
+1. [Peterson Number](https://github.com/SrajatMathur/100-days-of-code-srajat/blob/master/X100DaysOfCode/force-app/main/default/classes/Day6.cls)
